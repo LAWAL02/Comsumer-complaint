@@ -23,7 +23,6 @@ The dataset typically includes columns such as:
 - **Python**  
 - **Pandas, NumPy** for data wrangling  
 - **Matplotlib, Seaborn** for visualization  
-- *(Optional: Scikit-learn, NLTK or SpaCy if ML or NLP is used)*
 
 ## 🎯 Goal
 To help businesses, regulators, and analysts track patterns in consumer feedback and improve response strategies through data-driven insights.
